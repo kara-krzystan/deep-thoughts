@@ -1,7 +1,7 @@
 # Module 21 Project: Deep Thoughts
 
 ## Description
-Deep Thoughts is a social media style application built using the MERN stack. The app allows users to sign up, create an account, log in, post their "deep thoughts", and interact with other users. 
+Deep Thoughts is a social media style application built using the MERN stack. The application allows users to sign up, create an account, log in, post their "deep thoughts", and interact with other users. 
 
 ## Overview of Concepts Learned
 * The difference between GraphQL and RESTful APIs
